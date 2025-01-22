@@ -1,8 +1,12 @@
-function x(y){
-  console.log("x called");
-  y()
+setTimeout( ()=> {
+  console.log("rinu");
+},3000)
+
+function njna(avl){
+  console.log("neeyum");
+  avl()
 }
 
-x(function () {
-  console.log(" nja called");
+njna(function (){
+  console.log("njna called");
 })
