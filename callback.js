@@ -1,6 +1,6 @@
 setTimeout( ()=> {
   console.log("rinu");
-},3000)
+},2000)
 
 function njna(avl){
   console.log("neeyum");
