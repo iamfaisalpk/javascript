@@ -1,13 +1,13 @@
 //  spread operators
 
-const player =["faizy","fayiz","fasi","jasim","dilshad"]
-const player2 =["faiz","fayi","fas","jasi","dilsha"]
+// const player =["faizy","fayiz","fasi","jasim","dilshad"]
+// const player2 =["faiz","fayi","fas","jasi","dilsha"]
 
-const player1 = {...player};
+// const player1 = {...player};
 
 
-console.log(player);
-console.log(player2);
+// console.log(player);
+// console.log(player2);
 
 // rest parameeter
 
