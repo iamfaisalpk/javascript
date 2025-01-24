@@ -1,15 +1,15 @@
 
-// let arr = [34,56,78,76];
+let arr = [34,56,78,76];
 
-// let newArray =arr.map((value,index)=>value /2);
+let newArray =arr.map((value,index)=>value /2);
 
-// console.log(newArray)
+console.log(newArray)
 
-// console.log(arr)
+console.log(arr)
 
-// let mee = [123,456,789,87]
+let mee = [123,456,789,87]
 
-// mee.map((value,index)=>console.log(value,"-",index));
+mee.map((value,index)=>console.log(value,"-",index));
 
 
 
@@ -49,8 +49,8 @@
 
 // splice
 
-let ac = [4,"avb",12,false]
+// let ac = [4,"avb",12,false]
 
-ac.splice(1,2,"njnila","avlum ella")
+// ac.splice(1,2,"njnila","avlum ella")
 
-console.log(ac);
+// console.log(ac);
